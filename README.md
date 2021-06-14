@@ -1,2 +1,2 @@
 # bot-whatsapp
-Bot de envio de mensagens para contatos e grupos 
+Envio de mensagens para contatos e grupos por automomatização
